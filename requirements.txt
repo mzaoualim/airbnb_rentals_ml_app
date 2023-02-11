@@ -4,5 +4,4 @@ pandas
 scikit-learn
 shap
 matplotlib
-pickle
 streamlit_shap
