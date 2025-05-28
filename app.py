@@ -4,7 +4,7 @@ import pandas as pd
 import shap
 from streamlit_shap import st_shap
 import numpy as np
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.write("""
 # Airbnb Rentals\' Price Prediction App
